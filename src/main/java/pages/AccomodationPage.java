@@ -66,5 +66,7 @@ public class AccomodationPage extends GenericWrappers {
 		switchToLastWindow();
 		return new  FTRPage(driver, test);
 	}
+	
+	//to check git repository
 
 }
