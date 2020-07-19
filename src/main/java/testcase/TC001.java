@@ -12,7 +12,7 @@ public class TC001 extends ProjectWrappers {
 	public void beforeClass(){
 		
 	testname="IRCTC Register"	;
-	testdesc="Register into IRCTC website";
+	testdesc="******Register into IRCTC website******";
 	browser ="chrome";	
 	
 		
